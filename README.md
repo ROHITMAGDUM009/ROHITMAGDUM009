@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently learning Web Development
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/ROHITMAGDUM2) & [Github](https://github.com/ROHITMAGDUM009)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/ROHITMAGDUM009) & [Github](https://github.com/ROHITMAGDUM009)
 
 - 📫 How to reach me [Email](mailto:rohitmagdum2@gmail.com) & [LinkedIn](https://www.linkedin.com/in/rohitmagdum009/)
 
