@@ -7,7 +7,7 @@
 
 <img
   align="right"
-  width="340"
+  width="360"
   style="
     background: var(--color-canvas-default, #ffffff);
     padding-left: 16px;
@@ -23,9 +23,15 @@
 ## 👨‍💻 Professional Summary
 
 
-<h2 style="width: 65%; border-bottom: 1px solid var(--color-border-muted);">
+<h2 style="
+  display: inline-block;
+  width: 65%;
+  border-bottom: 1px solid var(--color-border-muted);
+  padding-bottom: 4px;
+">
   👨‍💻 Professional Summary
 </h2>
+
 
 Java + React Full Stack Developer with hands-on experience in designing and developing **scalable, maintainable web applications**.  
 Strong understanding of **backend architecture, REST APIs, database design, and modern frontend development**.  
