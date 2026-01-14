@@ -21,7 +21,9 @@
 
 ---
 
-## 👨‍💻 Professional Summary
+<h2 style="width: 50%; border-bottom: 1px solid;">
+  👨‍💻 Professional Summary
+</h2>
 
 Java + React Full Stack Developer with hands-on experience in designing and developing **scalable, maintainable web applications**.  
 Strong understanding of **backend architecture, REST APIs, database design, and modern frontend development**.  
