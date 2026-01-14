@@ -1,3 +1,9 @@
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&width=600&lines=Full+Stack+Developer;Java+%2B+React+Developer;Building+Scalable+Web+Apps;Always+Learning+New+Tech+🚀" alt="Typing SVG" />
+</p>
+
+
+
 <h1 align="left">Hi 👋, I'm ROHIT MAGDUM </h1>
 <h3 align="left">I am a Versatilist and Full Stack Developer 🌐 and I love to code and build user-friendly websites & I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠.</h3>
 
