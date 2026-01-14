@@ -16,18 +16,20 @@
   src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif"
 />
 
-<!-- <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif"/> -->
+ 
+## 👨‍💻 Professional Summary
 
----
-
-<div style="width:65%; border-bottom:1px solid var(--color-border-muted); margin-bottom:8px;">
-  <h2 style="border-bottom:none; margin-bottom:4px;">
-    👨‍💻 Professional Summary
-  </h2>
 Java + React Full Stack Developer with hands-on experience in designing and developing **scalable, maintainable web applications**.  
 Strong understanding of **backend architecture, REST APIs, database design, and modern frontend development**.  
 Actively seeking opportunities to contribute to real-world production systems.
-</div>
+<br/>
+- 🔭 Currently working on **new full-stack projects**
+- 👀 Interested in **software development & problem solving**
+- 🌱 Learning **modern web development technologies**
+- 👨‍💻 Projects: [Portfolio](https://github.com/ROHITMAGDUM009) | [GitHub](https://github.com/ROHITMAGDUM009)
+- 📫 Contact: [Email](mailto:rohitmagdum2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rohitmagdum009/)
+- 📄 Resume: [View Here](https://drive.google.com/file/d/1PKJ8KGOw2sFscLOZoAAv8DAmtDANArOT/view)
+
 
 ---
 
