@@ -20,22 +20,14 @@
 
 ---
 
-## 👨‍💻 Professional Summary
-
-
-<h2 style="
-  display: block;
-  width: 65%;
-  border-bottom: 1px solid var(--color-border-muted);
-  padding-bottom: 4px;
-">
-  👨‍💻 Professional Summary
-</h2>
-
-
+<div style="width:65%; border-bottom:1px solid var(--color-border-muted); margin-bottom:8px;">
+  <h2 style="border-bottom:none; margin-bottom:4px;">
+    👨‍💻 Professional Summary
+  </h2>
 Java + React Full Stack Developer with hands-on experience in designing and developing **scalable, maintainable web applications**.  
 Strong understanding of **backend architecture, REST APIs, database design, and modern frontend development**.  
 Actively seeking opportunities to contribute to real-world production systems.
+</div>
 
 ---
 
