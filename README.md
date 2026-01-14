@@ -62,7 +62,7 @@ Actively seeking opportunities to contribute to real-world production systems.
 <td width="33%" valign="top">
 
 ### 🛒 Grocery Delivery System
-<img src="https://via.placeholder.com/300x180.png" />
+<img src="https://(https://media.gettyimages.com/id/1227442969/vector/scooter-grocery-delivery.jpg?s=612x612&w=gi&k=20&c=Wm24B4T9-dc547fPlW4n9yURGM4t8aHARss4Yc_QOk8=)/300x180.png" />
 Spring Boot · React · MySQL  
 [Repo](https://github.com/ROHITMAGDUM009)
 
