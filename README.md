@@ -24,12 +24,11 @@ Strong understanding of **backend architecture, REST APIs, database design, and 
 Actively seeking opportunities to contribute to real-world production systems.
 <br/>
 - 🔭 Currently working on **new full-stack projects**
-- 👀 Interested in **software development & problem solving**
+- 👀 Interested in **software development & problem-solving**
 - 🌱 Learning **modern web development technologies**
 - 👨‍💻 Projects: [Portfolio](https://github.com/ROHITMAGDUM009) | [GitHub](https://github.com/ROHITMAGDUM009)
 - 📫 Contact: [Email](mailto:rohitmagdum2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rohitmagdum009/)
 - 📄 Resume: [View Here](https://drive.google.com/file/d/1PKJ8KGOw2sFscLOZoAAv8DAmtDANArOT/view)
-
 
 ---
 
