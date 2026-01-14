@@ -53,38 +53,7 @@ Actively seeking opportunities to contribute to real-world production systems.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
----
-
-## 🚀 Featured Projects
-
-### 🛒 Grocery Delivery System
-**Tech:** Spring Boot · React · MySQL  
-- Designed RESTful APIs for product, cart, and order management  
-- Implemented authentication and role-based access  
-- Built responsive frontend with React and Tailwind CSS  
-
-🔗 Repository: https://github.com/ROHITMAGDUM009  
-
----
-
-### 💼 Smart Job Portal System
-**Tech:** Spring Boot · React · MySQL  
-- Resume parsing and job matching workflow  
-- Admin dashboard for job & user management  
-- Modular backend architecture  
-
-🔗 Repository: https://github.com/ROHITMAGDUM009  
-
----
-
-### 🌐 Developer Portfolio Website
-**Tech:** React · Tailwind CSS · Vercel  
-- Personal portfolio showcasing projects and skills  
-- Fully responsive and performance-optimised  
-
-🔗 Repository: https://github.com/ROHITMAGDUM009  
-
----
+---  
 
 <h2>🚀 Featured Projects</h2>
 
@@ -119,6 +88,7 @@ React · Tailwind
 </tr>
 </table>
 
+---
 
 ## 🏆 GitHub Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ROHITMAGDUM009&theme=flat&no-frame=true&column=6&margin-w=10)
