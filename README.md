@@ -86,6 +86,40 @@ Actively seeking opportunities to contribute to real-world production systems.
 
 ---
 
+<h2>🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🛒 Grocery Delivery System
+<img src="https://via.placeholder.com/300x180.png" />
+Spring Boot · React · MySQL  
+[Repo](https://github.com/ROHITMAGDUM009)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💼 Smart Job Portal
+<img src="https://via.placeholder.com/300x180.png" />
+Spring Boot · React  
+[Repo](https://github.com/ROHITMAGDUM009)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌐 Portfolio Website
+<img src="https://via.placeholder.com/300x180.png" />
+React · Tailwind  
+[Repo](https://github.com/ROHITMAGDUM009)
+
+</td>
+</tr>
+</table>
+
+
 ## 🏆 GitHub Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ROHITMAGDUM009&theme=flat&no-frame=true&column=6&margin-w=10)
 
