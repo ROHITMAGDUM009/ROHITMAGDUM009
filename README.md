@@ -8,7 +8,11 @@
 <img
   align="right"
   width="340"
-  style="background:#ffffff; padding-left:12px;"
+  style="
+    background: var(--color-canvas-default, #ffffff);
+    padding-left: 16px;
+    padding-bottom: 8px;
+  "
   src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif"
 />
 
