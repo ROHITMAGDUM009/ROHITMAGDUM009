@@ -17,11 +17,7 @@
 />
 
 
-<!-- <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif"/> -->
-
----
-
-<h2 style="width: 50%; border-bottom: 1px solid;">
+<h2 style="width: 65%; border-bottom: 1px solid var(--color-border-muted);">
   👨‍💻 Professional Summary
 </h2>
 
