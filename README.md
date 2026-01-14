@@ -24,7 +24,7 @@
 
 
 <h2 style="
-  display: inline-block;
+  display: block;
   width: 65%;
   border-bottom: 1px solid var(--color-border-muted);
   padding-bottom: 4px;
