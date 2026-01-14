@@ -86,14 +86,11 @@ Actively seeking opportunities to contribute to real-world production systems.
 
 ---
 
----
-
 ## 🏆 GitHub Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ROHITMAGDUM009&theme=flat&no-frame=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ROHITMAGDUM009&theme=flat&no-frame=true&column=6&margin-w=10)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROHITMAGDUM009&show_icons=true&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=ROHITMAGDUM009)
 
 ---
 
