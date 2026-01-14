@@ -9,7 +9,6 @@
   align="right"
   width="360"
   style="
-    background: var(--color-canvas-default, #ffffff);
     padding-left: 16px;
     padding-bottom: 8px;
   "
