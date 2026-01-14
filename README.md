@@ -55,15 +55,38 @@ Actively seeking opportunities to contribute to real-world production systems.
 
 ---  
 
-## 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
-| 🛒 Grocery Delivery System | 💼 Smart Job Portal | 🌐 Portfolio Website |
-|---------------------------|--------------------|----------------------|
-| ![](https://via.placeholder.com/300x180.png?text=Grocery+App) | ![](https://via.placeholder.com/300x180.png?text=Job+Portal) | ![](https://via.placeholder.com/300x180.png?text=Portfolio) |
-| **Spring Boot + React + MySQL** | **Spring Boot + React** | **React + Tailwind** |
-| Online grocery ordering system with cart & orders | Job portal with resume parsing & matching | Personal developer portfolio |
-| [Repo](https://github.com/ROHITMAGDUM009) \| Live | [Repo](https://github.com/ROHITMAGDUM009) | [Repo](https://github.com/ROHITMAGDUM009) |
+<table>
+<tr>
+<td width="33%" valign="top">
 
+### 🛒 Grocery Delivery System
+<img src="https://via.placeholder.com/300x180.png" />
+Spring Boot · React · MySQL  
+[Repo](https://github.com/ROHITMAGDUM009)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💼 Smart Job Portal
+<img src="https://via.placeholder.com/300x180.png" />
+Spring Boot · React  
+[Repo](https://github.com/ROHITMAGDUM009)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌐 Portfolio Website
+<img src="https://via.placeholder.com/300x180.png" />
+React · Tailwind  
+[Repo](https://github.com/ROHITMAGDUM009)
+
+</td>
+</tr>
+</table>
 
 ---
 
