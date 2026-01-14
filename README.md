@@ -93,7 +93,6 @@ Actively seeking opportunities to contribute to real-world production systems.
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROHITMAGDUM009&show_icons=true&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROHITMAGDUM009&show_icons=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ROHITMAGDUM009)
 
 ---
@@ -104,8 +103,5 @@ Actively seeking opportunities to contribute to real-world production systems.
 - 🧑‍💻 GitHub: https://github.com/ROHITMAGDUM009  
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=ROHITMAGDUM009&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 > 💡 *Focused on writing clean, testable, and production-ready code.*
