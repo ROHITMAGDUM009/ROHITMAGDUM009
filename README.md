@@ -74,7 +74,10 @@ Spring Boot · React · MySQL
 <td width="33%" valign="top">
 
 ### 💼 Smart Job Portal
-<img src="https://via.placeholder.com/300x180.png" />
+<img
+  src="https://media.gettyimages.com/id/1317430914/vector/modern-flat-design-concept-of-online-business-life-with.jpg?s=612x612&w=gi&k=20&c=hJxNURXCUcerfcOT1rn37WQZCLo0S8XL6zAGtgRGCUU="
+  width="300"
+/>
 Spring Boot · React  
 [Repo](https://github.com/ROHITMAGDUM009)
 
@@ -83,7 +86,10 @@ Spring Boot · React
 <td width="33%" valign="top">
 
 ### 🌐 Portfolio Website
-<img src="https://via.placeholder.com/300x180.png" />
+<img
+  src="https://media.gettyimages.com/id/1154840836/vector/travelling-line-style-icon-design.jpg?s=612x612&w=gi&k=20&c=HB2wGKlM3s_vitBKQBQccjL_NTtXDOh8a1wFOUa2TXI="
+  width="300"
+/>
 React · Tailwind  
 [Repo](https://github.com/ROHITMAGDUM009)
 
