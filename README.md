@@ -9,7 +9,8 @@
 
 ---
 
-# 👨‍💻 Professional Summary
+<h3>👨‍💻 Professional Summary</h3>
+
 Java + React Full Stack Developer with hands-on experience in designing and developing **scalable, maintainable web applications**.  
 Strong understanding of **backend architecture, REST APIs, database design, and modern frontend development**.  
 Actively seeking opportunities to contribute to real-world production systems.
@@ -17,7 +18,7 @@ Actively seeking opportunities to contribute to real-world production systems.
 ---
 
 ## 🧰 Tech Stack
-
+ 
 ### Backend (Core Strength)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
@@ -64,7 +65,7 @@ Actively seeking opportunities to contribute to real-world production systems.
 ### 🌐 Developer Portfolio Website
 **Tech:** React · Tailwind CSS · Vercel  
 - Personal portfolio showcasing projects and skills  
-- Fully responsive and performance-optimized  
+- Fully responsive and performance-optimised  
 
 🔗 Repository: https://github.com/ROHITMAGDUM009  
 
