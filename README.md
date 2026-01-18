@@ -15,7 +15,7 @@
   src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif"
 />
 
-<hr style="margin-top:-5px;">
+<hr style="margin-top:-10px;">
 
 ### 👨‍💻 Professional Summary
 
