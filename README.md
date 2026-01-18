@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Rohit Magdum</h1>
 <h3 align="left">Java & React Full Stack Developer</h3>
 <p align="left" >
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=2F80ED&width=500&lines=Java+%2B+React+Full+Stack+Developer;Spring+Boot+Backend+Engineer;Building+Scalable+Web+Applications;Focused+on+Clean+Architecture+%26+Best+Practices" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F80ED&width=500&lines=Java+%2B+React+Full+Stack+Developer;Spring+Boot+Backend+Engineer;Building+Scalable+Web+Applications;Focused+on+Clean+Architecture+%26+Best+Practices" alt="Typing SVG" />
 </p>
 <img align="right"
   width="320"
