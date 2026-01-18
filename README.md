@@ -7,14 +7,8 @@
 
 <hr />
 
-<p align="right">
-  <img
-    width="340"
-    src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif"
-  />
-</p>
 
-
+<p align="left">
 ### 👨‍💻 Professional Summary
 
 Java + React Full Stack Developer with hands-on experience in designing and developing **scalable, maintainable web applications**.  
@@ -27,7 +21,13 @@ Actively seeking opportunities to contribute to real-world production systems.
 - 👨‍💻 Projects: [Portfolio](https://github.com/ROHITMAGDUM009) | [GitHub](https://github.com/ROHITMAGDUM009)
 - 📫 Contact: [Email](mailto:rohitmagdum2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rohitmagdum009/)
 - 📄 Resume: [View Here](https://drive.google.com/file/d/1PKJ8KGOw2sFscLOZoAAv8DAmtDANArOT/view)
-
+</p>
+<p align="right">
+  <img
+    width="340"
+    src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif"
+  />
+</p>
 ---
 
  ## 🧰 Tech Stack
