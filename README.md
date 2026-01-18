@@ -11,7 +11,7 @@
   style="
     padding-left: 16px;
     padding-top: 16px;
-    margin-top:16px;
+    margin-top:25px;
     padding-bottom: 8px;
   "
   src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif"
