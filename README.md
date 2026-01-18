@@ -8,6 +8,7 @@
 <img
   align="right"
   width="340"
+  height="300"
   style="
     padding-left: 16px;
     padding-bottom: 8px;
