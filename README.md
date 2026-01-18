@@ -4,7 +4,6 @@
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2F80ED&width=600&lines=Java+%2B+React+Full+Stack+Developer;Spring+Boot+Backend+Engineer;Building+Scalable+Web+Applications;Focused+on+Clean+Architecture+%26+Best+Practices" alt="Typing SVG" />
 </p>
-
 <p align="right">
   <img
     width="340"
@@ -12,7 +11,14 @@
   />
 </p>
 
-<br clear="both" />
+<hr />
+
+<p align="right">
+  <img
+    width="340"
+    src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif"
+  />
+</p>
 
 <hr />
 
