@@ -3,9 +3,6 @@
 <p align="left" >
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2F80ED&width=600&lines=Java+%2B+React+Full+Stack+Developer;Spring+Boot+Backend+Engineer;Building+Scalable+Web+Applications;Focused+on+Clean+Architecture+%26+Best+Practices" alt="Typing SVG" />
 </p>
-
-<p align="right">
-  <br><br>
 <img align="right"
   width="320"
   style=" margin-top: 16px;
