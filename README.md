@@ -5,8 +5,7 @@
 </p>
 
 <p align="right">
-  <p></p>
-  <p></p>
+  <br><br>
 <img align="right"
   width="320"
   style=" margin-top: 16px;
