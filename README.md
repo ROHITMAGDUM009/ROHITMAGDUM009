@@ -97,7 +97,9 @@ React · Tailwind
 ---
 
 ## 🏆 GitHub Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ROHITMAGDUM009&theme=flat&no-frame=true&column=6&margin-w=10)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ROHITMAGDUM009&theme=flat&no-frame=true&column=6&margin-w=10" />
+</p>
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROHITMAGDUM009&show_icons=true&hide_border=true)
