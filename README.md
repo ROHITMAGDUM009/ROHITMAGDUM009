@@ -37,8 +37,6 @@
   />
 </p>
 
-<br clear="both" />
-
 <hr />
 
 
