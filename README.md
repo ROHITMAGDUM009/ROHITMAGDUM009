@@ -15,6 +15,7 @@
 </p>
 
 ---
+<hr/>
 
 ### 👨‍💻 Professional Summary
 
