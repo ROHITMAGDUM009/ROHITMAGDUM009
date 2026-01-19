@@ -16,8 +16,6 @@
 
 ---
 
-<br> <br>
-
 ### 👨‍💻 Professional Summary
 
 Java + React Full Stack Developer with hands-on experience in designing and developing **scalable, maintainable web applications**.  
